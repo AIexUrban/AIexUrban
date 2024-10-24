@@ -5,4 +5,5 @@
 
 <img src ="https://img.shields.io/badge/py-python-blue?style=plastic&logo=python&logoColor=green" alt="The unlimited" width="100">
 
-<img src ="https://img.shields.io/badge/I%20don't%20lose%20my%20-pessimism-darkred" alt="The unlimited" width="80">
+<img alt="Static Badge" src="https://img.shields.io/badge/I%20don't%20lose%20my%20-pessimism-darkred?style=plastic&labelColor=098">
+
